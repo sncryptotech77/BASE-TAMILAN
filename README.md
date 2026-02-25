@@ -8,3 +8,4 @@ Popular for DeFi apps, NFTs, and meme coins, Base has grown rapidly, hitting ove
 Blockchain is a decentralized digital ledger.
 It records transactions across multiple computers.
 No single entity controls the entire network.
+Transactions are grouped into blocks.
