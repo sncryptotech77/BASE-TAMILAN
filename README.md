@@ -7,3 +7,4 @@ It leverages Optimism's OP Stack for optimistic rollups, enabling fast transacti
 Popular for DeFi apps, NFTs, and meme coins, Base has grown rapidly, hitting over 10 million daily active addresses by mid-2025 and bridging billions in TVL.
 Blockchain is a decentralized digital ledger.
 It records transactions across multiple computers.
+No single entity controls the entire network.
