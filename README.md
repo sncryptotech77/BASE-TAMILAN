@@ -11,3 +11,4 @@ No single entity controls the entire network.
 Transactions are grouped into blocks.
 Each block links to the previous one.
 This forms a chronological chain.
+Cryptography secures the data.
