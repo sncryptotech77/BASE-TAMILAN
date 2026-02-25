@@ -9,3 +9,4 @@ Blockchain is a decentralized digital ledger.
 It records transactions across multiple computers.
 No single entity controls the entire network.
 Transactions are grouped into blocks.
+Each block links to the previous one.
