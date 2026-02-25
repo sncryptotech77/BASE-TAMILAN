@@ -13,3 +13,4 @@ Each block links to the previous one.
 This forms a chronological chain.
 Cryptography secures the data.
 Immutability prevents tampering once added.
+Consensus mechanisms validate new blocks.
