@@ -21,3 +21,4 @@ Decentralization reduces single points of failure.
 Transparency allows public verification.
 Pseudonymity protects user identities.
 Smart contracts automate agreements.
+They execute without intermediaries.
