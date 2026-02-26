@@ -19,3 +19,4 @@ Miners solve computational puzzles.
 Proof-of-Stake (PoS) uses stake for validation.
 Decentralization reduces single points of failure.
 Transparency allows public verification.
+Pseudonymity protects user identities.
