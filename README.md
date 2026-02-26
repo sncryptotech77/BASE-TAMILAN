@@ -23,3 +23,4 @@ Pseudonymity protects user identities.
 Smart contracts automate agreements.
 They execute without intermediaries.
 Distributed ledger technology (DLT) underpins it.
+Peer-to-peer network connects nodes.
