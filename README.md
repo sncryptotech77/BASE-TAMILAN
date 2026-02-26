@@ -16,3 +16,4 @@ Immutability prevents tampering once added.
 Consensus mechanisms validate new blocks.
 Proof-of-Work (PoW) is a common method.
 Miners solve computational puzzles.
+Proof-of-Stake (PoS) uses stake for validation.
