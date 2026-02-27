@@ -28,3 +28,4 @@ Forks can split the chain.
 Hard forks change protocol rules.
 Soft forks are backward-compatible updates.
 Hash functions create unique block IDs.
+Merkle trees efficiently verify data.
