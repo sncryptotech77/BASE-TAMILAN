@@ -33,3 +33,4 @@ Genesis block starts the chain.
 Block headers contain metadata.
 Timestamps ensure chronological order.
 Difficulty adjustments maintain block times.
+Halvings reduce mining rewards.
