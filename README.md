@@ -26,3 +26,4 @@ Distributed ledger technology (DLT) underpins it.
 Peer-to-peer network connects nodes.
 Forks can split the chain.
 Hard forks change protocol rules.
+Soft forks are backward-compatible updates.
