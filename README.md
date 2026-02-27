@@ -34,3 +34,4 @@ Block headers contain metadata.
 Timestamps ensure chronological order.
 Difficulty adjustments maintain block times.
 Halvings reduce mining rewards.
+Nodes store full or light copies.
