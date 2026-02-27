@@ -29,3 +29,4 @@ Hard forks change protocol rules.
 Soft forks are backward-compatible updates.
 Hash functions create unique block IDs.
 Merkle trees efficiently verify data.
+Genesis block starts the chain.
