@@ -41,3 +41,4 @@ Hash functions create unique block IDs.
 Merkle trees efficiently verify data.
 Genesis block starts the chain.
 Block headers contain metadata.
+Timestamps ensure chronological order.
