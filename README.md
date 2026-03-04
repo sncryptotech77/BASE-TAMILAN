@@ -36,3 +36,4 @@ Difficulty adjustments maintain block times.
 Halvings reduce mining rewards.
 Nodes store full or light copies.
 Hard forks change protocol rules.
+Soft forks are backward-compatible updates.
