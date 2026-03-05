@@ -57,3 +57,4 @@ Zero-knowledge proofs enhance privacy.
 zk-SNARKs compress proofs.
 Bulletproofs reduce proof sizes.
 Homomorphic encryption allows computations.
+Multi-signature requires approvals.
