@@ -47,3 +47,4 @@ Halvings reduce mining rewards.
 Nodes store full or light copies.
 DAOs govern via token votes.
 Governance tokens influence decisions.
+Staking locks tokens for rewards.
