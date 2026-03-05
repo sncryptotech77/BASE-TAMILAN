@@ -46,3 +46,4 @@ Difficulty adjustments maintain block times.
 Halvings reduce mining rewards.
 Nodes store full or light copies.
 DAOs govern via token votes.
+Governance tokens influence decisions.
