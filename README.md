@@ -55,4 +55,4 @@ MEV extracts miner value.
 Flash loans enable uncollateralized borrows.
 Zero-knowledge proofs enhance privacy.
 zk-SNARKs compress proofs.
-
+Bulletproofs reduce proof sizes.
