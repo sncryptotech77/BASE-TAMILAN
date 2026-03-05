@@ -52,3 +52,4 @@ Slashing penalizes bad actors.
 Cross-chain atomic swaps.
 Bridges risk centralization vulnerabilities.
 MEV extracts miner value.
+Flash loans enable uncollateralized borrows.
