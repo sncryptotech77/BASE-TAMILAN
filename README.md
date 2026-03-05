@@ -49,3 +49,4 @@ DAOs govern via token votes.
 Governance tokens influence decisions.
 Staking locks tokens for rewards.
 Slashing penalizes bad actors.
+Cross-chain atomic swaps.
