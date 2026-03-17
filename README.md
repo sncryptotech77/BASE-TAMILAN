@@ -59,3 +59,4 @@ Bulletproofs reduce proof sizes.
 Homomorphic encryption allows computations.
 Multi-signature requires approvals.
 Slashing penalizes bad actors..
+Cross-chain atomic swaps.
