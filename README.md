@@ -69,3 +69,4 @@ Lamport signatures for one-time use.
 Hash-based signatures resist attacks.
 EVM compatibility for Ethereum apps.
 Virtual machines execute code.
+Opcode limits prevent abuse.
