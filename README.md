@@ -67,4 +67,4 @@ Quantum resistance via post-quantum crypto.
 Lamport signatures for one-time use.
 Lamport signatures for one-time use.
 Hash-based signatures resist attacks.
-
+EVM compatibility for Ethereum apps.
