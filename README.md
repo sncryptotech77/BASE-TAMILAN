@@ -73,3 +73,4 @@ Opcode limits prevent abuse.
 Reentrancy guards protect contracts.
 Timelocks delay executions.
 Multisig wallets for security.
+Hardware wallets isolate keys.
