@@ -64,3 +64,7 @@ Bridges risk centralization vulnerabilities.
 Federated sidechains use trusted parties.
 Drivechains enable withdrawals.
 Quantum resistance via post-quantum crypto.
+Lamport signatures for one-time use.
+Lamport signatures for one-time use.
+Hash-based signatures resist attacks.
+
