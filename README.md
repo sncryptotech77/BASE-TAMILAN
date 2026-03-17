@@ -72,3 +72,4 @@ Virtual machines execute code.
 Opcode limits prevent abuse.
 Reentrancy guards protect contracts.
 Timelocks delay executions.
+Multisig wallets for security.
