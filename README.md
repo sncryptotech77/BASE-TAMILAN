@@ -78,4 +78,6 @@ Ethereum‑compatible Layer 2 (L2) scaling solution.
 Built on the Optimism OP Stack (open‑source framework for Ethereum L2s).
 Uses Optimistic Rollup technology for off‑chain execution and on‑chain settlement.
 Inherits Ethereum’s security via settlement on Ethereum mainnet.
+Processes transactions off‑chain, then batches them into compressed “rollups” on Ethereum.
+
 
