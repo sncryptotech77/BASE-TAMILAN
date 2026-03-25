@@ -79,5 +79,5 @@ Built on the Optimism OP Stack (open‑source framework for Ethereum L2s).
 Uses Optimistic Rollup technology for off‑chain execution and on‑chain settlement.
 Inherits Ethereum’s security via settlement on Ethereum mainnet.
 Processes transactions off‑chain, then batches them into compressed “rollups” on Ethereum.
-
+Secure finality via Ethereum’s consensus (PoS) and data availability.
 
