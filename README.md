@@ -74,3 +74,5 @@ Reentrancy guards protect contracts.
 Timelocks delay executions.
 Multisig wallets for security.
 Hardware wallets isolate keys.
+Ethereum‑compatible Layer 2 (L2) scaling solution.
+
