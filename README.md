@@ -80,4 +80,4 @@ Uses Optimistic Rollup technology for off‑chain execution and on‑chain settl
 Inherits Ethereum’s security via settlement on Ethereum mainnet.
 Processes transactions off‑chain, then batches them into compressed “rollups” on Ethereum.
 Secure finality via Ethereum’s consensus (PoS) and data availability.
-
+Periodic posting of a Merkle root of transactions to Ethereum for fraud‑proofing.
