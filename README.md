@@ -75,4 +75,4 @@ Timelocks delay executions.
 Multisig wallets for security.
 Hardware wallets isolate keys.
 Ethereum‑compatible Layer 2 (L2) scaling solution.
-
+Built on the Optimism OP Stack (open‑source framework for Ethereum L2s).
