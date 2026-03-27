@@ -87,3 +87,4 @@ Designed to reduce Ethereum’s congestion by moving computation off‑chain.
 Much lower gas fees than Ethereum mainnet for most users and dApps.
 Faster block/transaction confirmation times (sub‑second to a few seconds).
 Cheaper for frequent on‑chain operations (swaps, small payments, NFT mints).
+Optimized fee structure using Ethereum’s EIP‑1559‑style gas‑pricing logic.
