@@ -90,3 +90,4 @@ Cheaper for frequent on‑chain operations (swaps, small payments, NFT mints).
 Optimized fee structure using Ethereum’s EIP‑1559‑style gas‑pricing logic.
 Reduced latency for user‑facing applications (wallets, games, social apps).
 Scales well for high‑volume apps (payments, DeFi, gaming, NFT marketplaces).
+Batch processing of many transactions into a single Ethereum calldata submission.
