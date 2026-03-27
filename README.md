@@ -92,3 +92,4 @@ Reduced latency for user‑facing applications (wallets, games, social apps).
 Scales well for high‑volume apps (payments, DeFi, gaming, NFT marketplaces).
 Batch processing of many transactions into a single Ethereum calldata submission.
 Lower per‑transaction cost for rollup operators and validators.
+Better user experience for casual users who would otherwise avoid Ethereum L1.
