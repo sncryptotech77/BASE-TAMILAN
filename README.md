@@ -96,3 +96,4 @@ Better user experience for casual users who would otherwise avoid Ethereum L1.
 Improved capacity for micro‑transactions and pay‑per‑use apps.
 Final settlement and cryptography anchored on Ethereum mainnet.
 Uses Ethereum’s SHA‑256 / KECCAK and Merkle‑tree primitives for state commitments.
+Fraud‑proof windows (or equivalent) allow challengers to detect and dispute invalid state roots.
