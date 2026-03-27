@@ -93,3 +93,4 @@ Scales well for high‑volume apps (payments, DeFi, gaming, NFT marketplaces).
 Batch processing of many transactions into a single Ethereum calldata submission.
 Lower per‑transaction cost for rollup operators and validators.
 Better user experience for casual users who would otherwise avoid Ethereum L1.
+Improved capacity for micro‑transactions and pay‑per‑use apps.
