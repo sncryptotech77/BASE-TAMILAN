@@ -84,3 +84,5 @@ Periodic posting of a Merkle root of transactions to Ethereum for fraud‑proofi
 High transaction throughput (often cited in the thousands of TPS range).
 Significantly higher throughput than Ethereum L1 (~15 TPS).
 Designed to reduce Ethereum’s congestion by moving computation off‑chain.
+Much lower gas fees than Ethereum mainnet for most users and dApps.
+
