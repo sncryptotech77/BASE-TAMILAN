@@ -91,3 +91,4 @@ Optimized fee structure using Ethereum’s EIP‑1559‑style gas‑pricing logi
 Reduced latency for user‑facing applications (wallets, games, social apps).
 Scales well for high‑volume apps (payments, DeFi, gaming, NFT marketplaces).
 Batch processing of many transactions into a single Ethereum calldata submission.
+Lower per‑transaction cost for rollup operators and validators.
