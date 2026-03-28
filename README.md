@@ -100,4 +100,4 @@ Fraud‑proof windows (or equivalent) allow challengers to detect and dispute in
 Fraud‑proof windows (or equivalent) allow challengers to detect and dispute invalid state roots.
 Inherits Ethereum’s decentralization and validator security for fraud‑proof resolution.
 OP Stack is open‑source, allowing forks and community‑driven forks.
-
+Governance model inspired by OP Stack and Ethereum‑adjacent governance patterns.
