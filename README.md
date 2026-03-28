@@ -101,3 +101,5 @@ Fraud‑proof windows (or equivalent) allow challengers to detect and dispute in
 Inherits Ethereum’s decentralization and validator security for fraud‑proof resolution.
 OP Stack is open‑source, allowing forks and community‑driven forks.
 Governance model inspired by OP Stack and Ethereum‑adjacent governance patterns.
+Community‑based DAO or governance token discussions (though governance is still evolving).
+
