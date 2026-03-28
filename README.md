@@ -103,3 +103,4 @@ OP Stack is open‑source, allowing forks and community‑driven forks.
 Governance model inspired by OP Stack and Ethereum‑adjacent governance patterns.
 Community‑based DAO or governance token discussions (though governance is still evolving).
 Aspirational goal toward permission‑less sequencer and validator participation over time.
+Distributed node and indexer infrastructure (not fully centralized).
