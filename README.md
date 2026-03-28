@@ -107,4 +107,6 @@ Distributed node and indexer infrastructure (not fully centralized).
 Third‑party validators and RPC providers contribute to network resilience.
 Transparent specification and upgrade paths published for the chain.
 Public testnets and devnets for early‑stage protocol experimentation.
+Immutable ledger once Ethereum confirms rollup batches.
+
 
