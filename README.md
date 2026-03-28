@@ -102,4 +102,4 @@ Inherits Ethereum’s decentralization and validator security for fraud‑proof 
 OP Stack is open‑source, allowing forks and community‑driven forks.
 Governance model inspired by OP Stack and Ethereum‑adjacent governance patterns.
 Community‑based DAO or governance token discussions (though governance is still evolving).
-
+Aspirational goal toward permission‑less sequencer and validator participation over time.
