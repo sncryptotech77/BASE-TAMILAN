@@ -105,3 +105,4 @@ Community‑based DAO or governance token discussions (though governance is stil
 Aspirational goal toward permission‑less sequencer and validator participation over time.
 Distributed node and indexer infrastructure (not fully centralized).
 Third‑party validators and RPC providers contribute to network resilience.
+Transparent specification and upgrade paths published for the chain.
