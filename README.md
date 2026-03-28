@@ -110,5 +110,7 @@ Public testnets and devnets for early‑stage protocol experimentation.
 Immutable ledger once Ethereum confirms rollup batches.
 EVM‑compatible (same smart‑contract environment as Ethereum).
 Native support for Solidity, Vyper, and most Ethereum tooling (Hardhat, Foundry, etc.).
+Reusable Ethereum libraries, standards (ERC‑20, ERC‑721, ERC‑1155) as‑is.
+
 
 
