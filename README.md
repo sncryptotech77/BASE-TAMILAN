@@ -99,3 +99,5 @@ Uses Ethereum’s SHA‑256 / KECCAK and Merkle‑tree primitives for state comm
 Fraud‑proof windows (or equivalent) allow challengers to detect and dispute invalid state roots.
 Fraud‑proof windows (or equivalent) allow challengers to detect and dispute invalid state roots.
 Inherits Ethereum’s decentralization and validator security for fraud‑proof resolution.
+OP Stack is open‑source, allowing forks and community‑driven forks.
+
